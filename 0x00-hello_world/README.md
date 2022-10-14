@@ -1,1 +1,1 @@
-script that compiles
+script that generates the assembly code
