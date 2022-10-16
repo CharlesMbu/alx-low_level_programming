@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- *main - Short description, single line
+ *main - prints single digits in base 10
  *Description: Longer description of the function)?
- *Return: Description of the returned value
+ *Return: Always 0
  */
 
 int main(void)
