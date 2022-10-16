@@ -1,20 +1,25 @@
 #include <stdio.h>
 
 /**
- *main - prints the alphabet in lowercase
- *followed by a new line except, q and e
- *Return: Always 0
+ *main - Short description, single line
+ *Description: Longer description of the function)?
+ *Return: Description of the returned value
  */
+
 int main(void)
 {
-	char i;
+	int ch;
 
-	for (i = 'a'; i <= 'z'; i++)
+	for (ch = 'a'; ch <= 'z'; c
 	{
-		if (i == 'e' || i == 'q')
-			continue;
-		putchar(i)
+	if (ch == 'e' || ch == 'q')
+	{
+		continue;
+	}
+	putchar(ch);
 	}
 	putchar('\n');
+
 	return (0);
+
 }
