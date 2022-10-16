@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
- *main-program entry point.
- *Return:0 if no error, non zero if error.
+ *main - prints the alphabet in lowercase
+ *followed by a new line except, q and e
+ *Return: Always 0
  */
 int main(void)
 {
